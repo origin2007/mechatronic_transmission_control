@@ -26,4 +26,9 @@ This project is used to share the hand-outs of my class. Students who caome from
 
 由于人数比较多，设备有限，所以万一有的组没有领到设备，可以：（1）自己购买设备，只要开具了抬头为浙江理工大学的发票，就可以到我这里报销（下学期），或者（2）与其他小组联系，可以借用一下他们的设备。
 
+## 已经收到的作业
+
+这里：[homework-received.txt](homework-received.txt) 不断更新
+
+
 最后，我的邮件地址为：origin@foxmail.com.
