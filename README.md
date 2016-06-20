@@ -32,3 +32,8 @@ This project is used to share the hand-outs of my class. Students who caome from
 
 
 最后，我的邮件地址为：origin@foxmail.com.
+
+## Update
+
+- 最近生了一场比较严重的病，几天没有回复邮件，今天处理了一下，请大家查看一下我列出的清单，确保自己组的实验报告交上了。我这周开始进行评阅。
+- 器材可以保留到下学期给我，要么给助教何斌（联系电话18814888022  QQ 707604185）。有发票也给他，然后把你们的支付宝帐号邮件发给我，我先给你们转账。
